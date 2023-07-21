@@ -1,5 +1,5 @@
 # WebPages
-Random HTML+CSS / JS Projects made by Marcin Wójtowicz
+Random HTML+CSS / JS Projects made by Me
 
 ## GitHub
 
