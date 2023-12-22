@@ -1,5 +1,5 @@
 # WebPages
-Random HTML+CSS / JS Projects made by Me
+Random HTML+CSS / JS Projects
 
 ## GitHub
 
