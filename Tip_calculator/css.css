@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,600&family=Lexend+Deca:wght@400;800&family=Nunito:wght@400;700&display=swap');
+body{
+    background-color: rgb(226, 226, 226);
+    height: calc(100vh - 1px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Nunito', sans-serif;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  } 
+.submit-box{
+    background-color: rgb(255, 255, 255);
+    padding: 1rem;
+    border-radius: 1rem;
+    max-width: 525px;
+    box-shadow: 0px 0px 2px rgba(66,66,66,.29);
+}
+h1{
+    text-align: center;
+    padding: 0 0 0.825rem 0;
+}
+p,span{
+    font-size: 15px;
+    font-weight: 400;
+    padding: 0 0 0.825rem 0;
+}
+input{
+    min-width: 100%;
+    min-height: 2rem;
+    margin-bottom: 1rem;
+}
+button{
+    font-size: 18px;
+    margin-bottom: .5rem;
+    min-width: 100%;
+    min-height: 2.5rem;
+    font-family: inherit;
+    color: white;
+    background-color: #4fb952;
+    border: none;
+    border-radius: 0.125rem;
+}
+button:hover{
+    background-color: #47a349;
+}
+button:active{
+    background-color: #39833a;
+}
